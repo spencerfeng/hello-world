@@ -11,4 +11,5 @@ node v14 +
 
 then access: http://localhost:5000/
 
-# deployed address: https://cnx-edward-fullstack.herokuapp.com/
+# retry mechanism is available on this version
+# deployed address: https://cnx-edward-fullstack-enhance.herokuapp.com/
